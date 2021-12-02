@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Navigation_Drawer</string>
+    <string name="home">Home</string>
+    <string name="login">Login</string>
+    <string name="trash">Trash</string>
+    <string name="sync">Sync</string>
+    <string name="message">message</string>
+    <string name="settings">Settings</string>
+</resources>
